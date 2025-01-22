@@ -1,0 +1,6 @@
+# library hayi k lazeme ro inja minevisim
+
+termcolor==2.5.0
+
+# hala kasi khas hamero rahat baham nasb kone mire terminal type mikone:
+# pip install -r requirements.txt
